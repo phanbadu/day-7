@@ -10,7 +10,7 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(to bottom, #4f966a, #e0e79a);
+    background: linear-gradient(to bottom, #d39ad3, #db8258);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -108,6 +108,7 @@ body {
     background: linear-gradient(to bottom, #8a4343, #8a8ae0);
     border-radius: 10px;
     cursor: pointer;
+    box-shadow: 0 0 4px #3f3e3e;
 }
 
 .button {
